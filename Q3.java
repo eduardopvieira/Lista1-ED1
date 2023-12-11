@@ -9,6 +9,7 @@ public class Q3 {
         n1 = sc.nextInt();
         System.out.println("Digite o segundo número");
         n2 = sc.nextInt();
+        sc.close();
 
         System.out.println("Soma: " + (n1 + n2));
         System.out.println("Subtração: " + (n1 - n2));

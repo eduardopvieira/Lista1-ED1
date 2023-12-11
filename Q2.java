@@ -1,9 +1,6 @@
 import java.util.Scanner;
 
 public class Q2 {
-    
-    
-
     public static void main(String[] args) {
         String nome;
         int idade;
@@ -28,7 +25,8 @@ public class Q2 {
 
         System.out.println("Digite seu nome completo: ");
         nome = sc.nextLine();
-
+        
+        sc.close();
 
 
         System.out.println("Idade: " + idade);
