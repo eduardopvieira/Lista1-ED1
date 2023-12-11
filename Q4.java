@@ -1,4 +1,3 @@
-package Lista1_ED;
 
 import java.util.Scanner;
 

@@ -1,4 +1,3 @@
-package Lista1_ED;
 
 class Q1 {
 
