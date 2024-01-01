@@ -11,6 +11,7 @@ public class Q10 {
         } else {
             System.out.println("O número é ímpar");
         }
+        sc.close();
 
     }
 }

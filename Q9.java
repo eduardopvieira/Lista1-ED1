@@ -12,6 +12,7 @@ public class Q9 {
         } else {
             System.out.println("Área do círculo: " + (Math.PI * Math.pow(raio, 2)));
         }
+        sc.close();
     }
     
 }

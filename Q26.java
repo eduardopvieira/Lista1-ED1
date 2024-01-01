@@ -16,6 +16,6 @@ public class Q26 {
                 contador++;
             }
         }
-
+        sc.close();
     }
 }

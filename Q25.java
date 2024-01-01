@@ -14,6 +14,7 @@ public class Q25 {
             vetor[i] = i + 1;
             System.out.println(vetor[i]);
         }
+        sc.close();
 
     }
 }

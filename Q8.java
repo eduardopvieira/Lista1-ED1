@@ -14,6 +14,6 @@ public class Q8 {
         } else {
             System.out.println("IMC: " + (peso / (altura * altura)));
         }
-
+        sc.close();
     }
 }

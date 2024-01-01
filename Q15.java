@@ -6,7 +6,7 @@ public class Q15 {
         System.out.println("Digite um número: ");
         Scanner sc = new Scanner(System.in);
         num = sc.nextInt();
-
+        sc.close();
         switch (num) {
             case 1:
                 System.out.println("Um");

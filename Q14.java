@@ -22,6 +22,7 @@ public class Q14 {
             System.out.println("Raiz 1 : " + ((-b + Math.sqrt(delta)) / (2 * a)));
             System.out.println("Raiz 1 : " + ((-b - Math.sqrt(delta)) / (2 * a)));
         }
+        sc.close();
     }
 
     public static int delta(int a, int b, int c) {

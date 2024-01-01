@@ -21,6 +21,6 @@ public class Q6 {
         System.out.println("Total sem taxa: " + totalSemTaxa);
         System.out.println("Total com taxa: " + totalComTaxa);
         System.out.println("Valor por pessoa (rateio): " + (totalComTaxa / pessoasMesa));
-
+        sc.close();
     }
 }

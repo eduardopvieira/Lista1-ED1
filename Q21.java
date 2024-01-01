@@ -22,5 +22,6 @@ public class Q21 {
                 }
             }
         }
+        sc.close();
     }
 }

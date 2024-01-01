@@ -13,6 +13,8 @@ public class Q5 {
         n3 = sc.nextDouble();
 
         System.out.println("Média: " + ((n1 + n2 + n3) / 3));
+        sc.close();
     }
+    
 
 }

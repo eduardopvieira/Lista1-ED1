@@ -39,5 +39,6 @@ public class Q12 {
                 System.out.println("Reprovado");
             }
         }
+        sc.close();
     }
 }

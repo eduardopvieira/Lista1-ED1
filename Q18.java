@@ -21,5 +21,6 @@ public class Q18 {
             senhaDigitada = sc.nextLine();
         } while (!senha.equals(senhaDigitada));
         System.out.println("Senha correta, acesso liberado");
+        sc.close();
     }
 }

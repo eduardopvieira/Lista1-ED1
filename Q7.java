@@ -17,6 +17,7 @@ public class Q7 {
         } else {
             System.out.println("Quociente da Divisão:" + (n1 / n2));
         }
+        sc.close();
 
     }
 

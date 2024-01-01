@@ -33,5 +33,6 @@ public class Q16 {
         for (int i = pivoFor1; i <= pivoFor2; i++) {
             System.out.println("Usando for: " + i);
         }
+        sc.close();
     }
 }

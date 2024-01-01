@@ -11,6 +11,7 @@ public class Q19 {
             int mult = num * i;
             System.out.println(num + " x " + i + " = " + mult); 
         }
+        sc.close();
 
     }
 }

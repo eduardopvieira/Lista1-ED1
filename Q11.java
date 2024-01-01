@@ -17,6 +17,7 @@ class Q11 {
             System.out.println("Saldo da conta 1: " + conta1);
             System.out.println("Saldo da conta 2: " + conta2);
         }
+        sc.close();
 
     }
 }

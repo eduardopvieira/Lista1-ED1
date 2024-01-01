@@ -33,5 +33,6 @@ public class Q13 {
             notaFaltando = (50 - (media * 6))/4;
             System.out.println("Você precisa tirar " + notaFaltando + " na prova final");
         } 
+        sc.close();
     }
 }

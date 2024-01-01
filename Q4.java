@@ -16,6 +16,7 @@ public class Q4 {
         n3 = sc.nextInt();
 
         System.out.println("Média: " + ((n1 + n2 + n3) / 3));
+        sc.close();
     }
 
 

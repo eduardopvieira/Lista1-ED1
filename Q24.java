@@ -29,6 +29,7 @@ public class Q24 {
                     break;
             }
         } while(!(operacao == 0));
+        sc.close();
 
     }
     static int fatorial(int n) {
